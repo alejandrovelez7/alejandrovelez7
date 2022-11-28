@@ -2,9 +2,7 @@
 
 🤓 Jack of all trades master of none..
 
-♦ Ruby/Rails enthusiast
-
-🔨 Platform Engineer
+I like to code things and help others code things! 
 
 <!---
 alejandrovelez7/alejandrovelez7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
