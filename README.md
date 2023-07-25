@@ -4,6 +4,8 @@
 
 I like to code things and help others code things! 
 
+Catch me on Medium https://medium.com/@alejandrovelezcalderon
+
 <!---
 alejandrovelez7/alejandrovelez7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
